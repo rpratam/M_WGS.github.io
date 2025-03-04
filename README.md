@@ -1,4 +1,4 @@
-# Metagenium WHole Genome Sequencing
+# Metagenium Whole Genome Sequencing
 
 This github repository made for the purpose of sharing and collaborate on the Whole Genome Sequencing project using NGS (currently Illumina).
 
